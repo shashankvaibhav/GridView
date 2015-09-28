@@ -19,7 +19,5 @@
         android:numColumns="auto_fit"
         android:horizontalSpacing="2dp"
         android:verticalSpacing="2dp"
-
-
         />
 </RelativeLayout>

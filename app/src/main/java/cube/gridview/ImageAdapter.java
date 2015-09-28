@@ -16,7 +16,6 @@ import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
 import android.widget.Toast;
 
-
 public class ImageAdapter extends BaseAdapter{
 
     public static final String TAG = MainActivity.class.getSimpleName();
